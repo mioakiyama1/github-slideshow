@@ -2,5 +2,5 @@
 layout: slide
 title: "slide 2"
 ---
-Your text
+thus have I changed it
 Use the left arrow to go back!
